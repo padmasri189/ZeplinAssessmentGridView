@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(224, 208, 187);
+  border: 0.5px solid rgb(230, 218, 202);
+}
+.allPostsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  background-color: rgb(247, 241, 234);
+}
+.accept-request-list-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 400;
+  padding-left: 18px;
+}
